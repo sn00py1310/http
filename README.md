@@ -1,2 +1,2 @@
 # http
-HTTP test reposetory
+Public HTTP repository
